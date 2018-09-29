@@ -2,7 +2,7 @@
 
 My first GitHub repository
 
-Name App
+The nameApp
 
 Description: This app changes the text color after the user presses a button.
 
